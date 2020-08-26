@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4809506-10d4-4e32-8060-5d8e6f8967de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/01/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/연습.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/basic-sql-practice.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/employees.mwb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/employees.mwb.bak" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/join연습.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/practice01.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/practice02.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/practice03.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/practice04.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/select기본.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/sql-cdmall.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/서브쿼리연습.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql연습/집계연습.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/01/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/01/hello.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +13,39 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python-basics" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01/hello.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01/연습.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01/assignment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/01/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -56,15 +68,25 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01/hello.py" />
         <option value="$PROJECT_DIR$/01/.gitignore" />
         <option value="$PROJECT_DIR$/01/README.md" />
+        <option value="$PROJECT_DIR$/01/hello.py" />
+        <option value="$PROJECT_DIR$/01/연습" />
+        <option value="$PROJECT_DIR$/01/연습.py" />
+        <option value="$PROJECT_DIR$/01/assignment.py" />
       </list>
     </option>
   </component>
@@ -86,6 +108,11 @@
             <path>
               <item name="python-basics" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-basics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-basics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-basics" type="462c0819:PsiDirectoryNode" />
+              <item name="01" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,7 +136,49 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.assignment">
+    <configuration name="연습" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/연습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="assignment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python-basics" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01/assignment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basics" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -133,6 +202,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.assignment" />
+        <item itemvalue="Python.연습" />
         <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
@@ -150,23 +221,33 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.17913593" />
+      <window_info id="Structure" order="1" sideWeight="0.50161815" side_tool="true" weight="0.17913593" />
+      <window_info id="Favorites" order="2" sideWeight="0.50161815" side_tool="true" weight="0.17913593" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.29284164" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -174,17 +255,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/01/helloworld.py" />
-    <entry file="file://$PROJECT_DIR$/01/hello.py">
+    <entry file="file://$PROJECT_DIR$/01/연습">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="20" selection-start-column="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <caret selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -195,6 +269,34 @@
             <caret line="1" selection-start-line="1" selection-end-line="1" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/연습.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01/assignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="40" column="8" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
         </state>
       </provider>
     </entry>

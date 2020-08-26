@@ -3,7 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="a4809506-10d4-4e32-8060-5d8e6f8967de" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/01/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/basic-sql-practice.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/employees.mwb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/employees.mwb.bak" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/join연습.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/practice01.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/practice02.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/practice03.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/practice04.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/select기본.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/sql-cdmall.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/서브쿼리연습.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql연습/집계연습.sql" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

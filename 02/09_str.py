@@ -80,6 +80,16 @@ name = '마이콜'
 age = 30
 print("name: " + format(name, 's') + ",age: " + format(age, 'd'))
 
+# dict
+print("name: %(name)s, age: %(age)d" % {'age': 10, 'name': '둘리'})
+
+#format() 함수
+name = '마이클'
+age = 30
+print("name: " + format(name, 's') + ".age: " + format(age, 'd'))
+
+# format() 객체 함수
+print("name: {1}, age: {0}".format(age, name))
 
 print('=============== 객체함수 ============')
 s8 = 'i like python'
@@ -98,6 +108,24 @@ print(s9.find('Like', 5))
 print(s9.find('JavaScript'))
 print(s9.rfind('Like'))
 
+
+
+
+#if index == -1:
+#try:
+  # s9.index('JavaScript')
+#except ValueError as ex:
+  #  print('index()는 발견하지 못하면 예외가 발생한다.')
+    # 예외
+    # 1. 로그를 남긴다.
+    # 2. 사용자한테 사과.
+    # 3. 정상종료
+
+# 편집과 치환
+s10 = ' spam and ham '
+print('-------------' + s10.strip() + '---------')
+
+
 #str 객체는 변경할 수 없다(불변성, immutable)
 #s10 = 'hello'
 #s10[0] = 'f'
@@ -111,3 +139,25 @@ l1.append('Python')
 print(l1)
 
 
+#rindex, rfind, startswitch, endswitch 알아보기
+
+s11 = '<><abc><><defg><>'
+print('-------------' + s11.strip('<>') + '---------')
+
+s12 = 'Hello Java Java Java'
+print('-------------' + s12.replace('java', '') + '---------')
+
+# 정렬
+s13 = 'King and Queen'
+print('----' + s13.center(30) + '------')
+print('----' + s13.ljust(30) + '------')
+print('----' + s13.rjust(30) + '------')
+
+# 분리 split, rsplit 공부하기
+# 결합 join 공부하기
+# 판별 isdigit, isalpha, islower, issupper, isspace
+# '0'채우기
+number = 234
+print(str(number).zfill(5))
+
+# format_map 함수 공부하기

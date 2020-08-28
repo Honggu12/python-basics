@@ -63,9 +63,19 @@ else:
 
 
 
+# 구구단
+
+print('\n========구구단1===============')
 for i in range(1, 10):
     for j in range(1, 10):
         print("%d X %d = %d" % (i, j, i*j))
 
-    print("-----------------------")
+print('\n========구구단2===============')
+for i in range(1, 10):
+    for j in range(1, 10):
+        print("{} X {} = {}".format(j, i, j*i), end="\t")
+    print('')
+
+
+
 

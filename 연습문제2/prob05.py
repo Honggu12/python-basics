@@ -1,6 +1,4 @@
-#
-
-def sum
+#def sum
 
 
 print(sum())

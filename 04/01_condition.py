@@ -6,15 +6,18 @@ if a > 5:
 else:
     print('small')
 
+# java, c, c++, javascript (삼항 연산자)
+# print(a > 5 ? 'big' : 'small')
+print('big' if a > 5 else 'small')
 
 # if ~ elif ~ else
-n = -1000
+n = 10
 if n > 0:
     print('양수')
-elif n == 0:
-    print('0')
-else:
+elif n < 0:
     print('음수')
+else:
+    print('0')
 
 price = 0
 order = 'nuddle'
@@ -23,9 +26,7 @@ if order == 'spam':
     price = 1000
 elif order == 'egg':
     price = 200
-elif order == 'spacetti':
+elif order == 'spagetti':
     price = 2000
-else:
-    price = 0
 
-print('order: %s, price: %d' % (order, price))
+print('order: %s, price:%d' % (order, price))

@@ -1,8 +1,13 @@
-# 문제1. 키보드로 정수 수치를 입력 받아 그것이 3의 배수인지 판단하세요
+# 키보드로 정수 수치를 입력 받아 그것이 3의 배수인지 판단하세요
+import sys
 
-x=int(input("3의 배수인가요? x="))
+number = input('수를 입력하세요: ')
+if number.isdigit() is False:
+    print('정수를 입력하세요')
+    sys.exit(0)
 
-if x%3==0:
-    print("맞습니다.")
+number = int(number)
+if number % 3 == 0:
+    print('3의 배수입니다.')
 else:
-    print("아닙니다.")
+    print('3의 배수가 아닙니다.')
